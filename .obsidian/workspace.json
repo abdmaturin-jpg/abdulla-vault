@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_START_HERE.md",
+                "file": "05_Карьера/05_Как я попал в Озон.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_START_HERE"
+              "title": "05_Как я попал в Озон"
             }
           }
         ]
@@ -181,15 +181,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "audio-recorder:Начать/остановить запись": false,
       "random-note:Открыть случайную заметку": false,
-      "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "827662a339bdd555",
   "lastOpenFiles": [
     "06_Депрессия/Депрессия.md",
+    "00_Я/Secrets.md",
     "_START_HERE.md",
     "README.md",
     "10_Увлечения/10_Увлечения.md",
@@ -214,7 +213,6 @@
     "05_Карьера/05_Как я попал в Озон.md",
     "05_Карьера/Карьера — обзор.md",
     "05_Карьера/Моя команда.md",
-    "05_Карьера/Успехи.md",
-    "05_Карьера/Провалы и сложности.md"
+    "05_Карьера/Успехи.md"
   ]
 }
