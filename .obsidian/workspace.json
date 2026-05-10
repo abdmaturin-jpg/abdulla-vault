@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Карьера/05_Как я попал в Озон.md",
+                "file": "16_Работа с психотерапевтом/Мысли.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Как я попал в Озон"
+              "title": "Мысли"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рути",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура Атмосфера в семье в детстве"
             }
+          },
+          {
+            "id": "5195bb701b32f5e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cad318955a5b711f",
+  "active": "827662a339bdd555",
   "lastOpenFiles": [
+    "16_Работа с психотерапевтом/Мысли.md",
+    "16_Работа с психотерапевтом",
+    "_START_HERE.md",
+    "Без названия.base",
+    "2026-05-07.md",
+    "Без названия.canvas",
+    "05_Карьера/05_Как я попал в Озон.md",
     "06_Депрессия/Депрессия.md",
     "07_Внутренний_мир/Что не даёт спать.md",
     "12_Развитие/12_Развитие.md",
@@ -195,9 +211,7 @@
     "99_Входящие/Входящие.md",
     "05_Карьера/Отношения с руководством.md",
     "00_Я/Я — базовое.md",
-    "05_Карьера/05_Как я попал в Озон.md",
     "00_Я/Secrets.md",
-    "_START_HERE.md",
     "README.md",
     "10_Увлечения/10_Увлечения.md",
     "15_Финансы/Финансы — обзор.md",
@@ -212,8 +226,6 @@
     "09_Привычки_и_быт/Сон.md",
     "09_Привычки_и_быт/Обычный день.md",
     "09_Привычки_и_быт/Еда.md",
-    "09_Привычки_и_быт/Деньги в быту.md",
-    "09_Привычки_и_быт/Вредные привычки.md",
-    "08_Убеждения/08_Убеждения и взгляды.md"
+    "09_Привычки_и_быт/Деньги в быту.md"
   ]
 }
